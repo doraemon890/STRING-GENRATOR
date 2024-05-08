@@ -29,7 +29,7 @@ if __name__ == "__main__":
     except AccessTokenInvalid:
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
-    print(f"@{uname} NOW [JARVIS](https://t.me/JARVIS_V2) SESSION GEN IS READY TO GEN SESSION")
+    print(f"@{uname} NOW JARVIS SESSION GEN IS READY TO GEN SESSION")
     idle()
     app.stop()
     print("🇸 🇪 🇸 🇸 🇮 🇴 🇳  🇬 🇪 🇳 🇷 🇦 🇹 🇮 🇳 🇬  🇸 🇹 🇴 🇵 🇵 🇪 🇩...")
