@@ -4,5 +4,5 @@ psutil==5.9.4
 pyromod==1.5
 git+https://github.com/doraemon890/pyrogram
 python-dotenv==0.21.0
-telethon==1.26.1
+telethon==1.28.5
 TgCrypto==1.2.5
